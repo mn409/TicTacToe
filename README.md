@@ -25,27 +25,6 @@ This project is a simple **Tic Tac Toe** game built in Java. It allows two playe
 - `checkWinner()`: Checks if a player has won or the game ended in a draw.
 - `isLineEqual(a, b, c)`: Utility to check three markers for equality.
 
-## Prerequisites
-- Install the Java Development Kit (JDK) on your system.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/tictactoe-java.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd tictactoe-java
-   ```
-3. Compile the code:
-   ```bash
-   javac TicTacToe.java
-   ```
-4. Run the program:
-   ```bash
-   java TicTacToe
-   ```
-
 ## Example Gameplay
 ```
    |   |  
